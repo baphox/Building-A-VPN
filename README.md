@@ -25,9 +25,9 @@ The key objective of building a Virtual Private Network (VPN) is to establish a 
     
 # Installing OpenVPN and Easy-RSA
 
-'''
-$ sudo apt update
-$ sudo apt install openvpn easy-rsa
-'''
+    '''
+    sudo apt update
+    sudo apt install openvpn easy-rsa
+    '''
 
 <img src="https://i.imgur.com/VtnkAJu.png" alt="Wazuh Automation Diagram 1">
