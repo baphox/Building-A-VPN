@@ -24,10 +24,13 @@ The key objective of building a Virtual Private Network (VPN) is to establish a 
 
     
 # Installing OpenVPN and Easy-RSA
+The first step is to install OpenVPN and Easy-RSA. Easy-RSA is a public key infrastructure (PKI) management tool that you will use on the OpenVPN Server to generate a certificate request that you will then verify and sign on the CA Server.
 
-    '''
-    sudo apt update
-    sudo apt install openvpn easy-rsa
-    '''
+'''
+sudo apt update
+sudo apt install openvpn easy-rsa
+'''
 
-<img src="https://i.imgur.com/VtnkAJu.png" alt="Wazuh Automation Diagram 1">
+<img src="https://i.imgur.com/wlj74Cb.png" alt="Installing OpenVPN and Easy-RSA">
+
+
