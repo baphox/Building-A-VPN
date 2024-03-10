@@ -29,13 +29,13 @@ The key objective of building a Virtual Private Network (VPN) is to establish a 
 
 Operating System:
 
-    OpenVPN supports various operating systems including Linux, Windows, macOS, and FreeBSD.
-    Choose a stable and supported operating system for your OpenVPN server. Popular choices include Debian, Ubuntu, CentOS, and Windows Server.
+  OpenVPN supports various operating systems including Linux, Windows, macOS, and FreeBSD.
+  Choose a stable and supported operating system for your OpenVPN server. Popular choices include Debian, Ubuntu, CentOS, and Windows Server.
 
 OpenVPN Software:
 
-    Install the OpenVPN software package appropriate for your server's operating system.
-    You can download the OpenVPN software from the official OpenVPN website or use package managers available for your operating system.
+  Install the OpenVPN software package appropriate for your server's operating system.
+  You can download the OpenVPN software from the official OpenVPN website or use package managers available for your operating system.
     
 # Installing OpenVPN and Easy-RSA
 
